@@ -5,9 +5,9 @@ module.exports = {
     title: 'Xero Technologies',
     description:
       'Xero Technologies is an Educational Technology startup based in Delhi, India.',
-    //siteUrl: 'https://xeroTech.com', // No trailing slash allowed!
+    siteUrl: 'https://brittanychiang.com/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    //twitterUsername: '@bchiang7',
+    twitterUsername: '@bchiang7',
   },
   pathPrefix: "/gatsby-demo",
 
