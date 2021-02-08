@@ -122,7 +122,7 @@ const Footer = () => {
             </div>
           )}
         </a>
-        <br/><a href="http://skillzera.tech/"> ✩ Skillzera</a> <a href="https://www.linkedin.com/company/xerotechnologies/">Careers</a>
+        <br/><a href="http://skillzera.tech/"> ✩ Skillzera</a> <a href="https://www.linkedin.com/company/xerotechnologies/"> ‣ Careers</a>
       </StyledCredit>
     </StyledFooter>
   );
