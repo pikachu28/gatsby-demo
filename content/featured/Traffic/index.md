@@ -5,7 +5,8 @@ cover: './Traffic_Count_and_Classification_Software.png'
 # github: 'https://github.com/pikachu28/Bank_Management_System'
 external: 'https://www.justdial.com/Delhi/Balaji-Infra-Tech/011PXX11-XX11-190818205050-J1J6_BZDET?xid=RGVsaGkgQmFsYWppIEluZnJhIFRlY2g='
 tech:
-  - Deep Learning and OpenCV | Full Stack Development
+  - Deep Learning and OpenCV
+  - Full Stack Development
 showInProjects: true
 ---
 
