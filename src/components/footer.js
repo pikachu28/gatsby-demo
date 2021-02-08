@@ -15,7 +15,6 @@ const StyledFooter = styled.footer`
 
 const StyledSocialLinks = styled.div`
   display: none;
-
   @media (max-width: 768px) {
     display: block;
     width: 100%;
@@ -23,13 +22,11 @@ const StyledSocialLinks = styled.div`
     margin: 0 auto 10px;
     color: var(--light-slate);
   }
-
   ul {
     ${({ theme }) => theme.mixins.flexBetween};
     padding: 0;
     margin: 0;
     list-style: none;
-
     a {
       padding: 10px;
       svg {
@@ -45,14 +42,11 @@ const StyledCredit = styled.div`
   font-family: var(--font-mono);
   font-size: var(--fz-xxs);
   line-height: 1;
-
   a {
     padding: 10px;
   }
-
   .github-stats {
     margin-top: 10px;
-
     & > span {
       display: inline-flex;
       align-items: center;
@@ -108,19 +102,6 @@ const Footer = () => {
         Redesigned © Xero Technologies | 
         <a href="https://github.com/bchiang7/v4">
           <div>Source Copyright @ Brittany Chiang</div>
-
-//           {githubInfo.stars && githubInfo.forks && (
-//             <div className="github-stats">
-//               <span>
-//                 <Icon name="Star" />
-//                 <span>{githubInfo.stars.toLocaleString()}</span>
-//               </span>
-//               <span>
-//                 <Icon name="Fork" />
-//                 <span>{githubInfo.forks.toLocaleString()}</span>
-//               </span>
-//             </div>
-//           )}
         </a>
         <br/><a href="http://skillzera.tech/"> ✩ Skillzera</a> <a href="https://www.linkedin.com/company/xerotechnologies/"> ‣ Careers</a>
       </StyledCredit>
@@ -133,3 +114,4 @@ Footer.propTypes = {
 };
 
 export default Footer;
+
