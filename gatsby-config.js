@@ -5,13 +5,10 @@ module.exports = {
     title: 'Xero Technologies',
     description:
       'Xero Technologies is an Educational Technology startup based in Delhi, India.',
-    siteUrl: 'https://brittanychiang.com/', // No trailing slash allowed!
+    siteUrl: 'https://xeroed.tech/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '',
   },
-  pathPrefix: "/gatsby-demo",
-
-
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
@@ -22,8 +19,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'XeroTechnologies',
+        short_name: 'XeroTechnologies',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
