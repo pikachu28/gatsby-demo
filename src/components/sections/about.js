@@ -144,7 +144,7 @@ const About = () => {
             <p>Xero Technologies is an Educational Technology startup based in Delhi, India.</p>
 
             <p>
-              We are currently building an{' '} <a>Educational Infrastructure </a>to provide one-stop access to opportunities and Real-world skills. 
+              We are currently building an{' '} <a>Educational Infrastructure </a> to provide one-stop access to opportunities and Real-world skills. 
               We are taking Initiative in the field of Impactful learning, early career opporunities, corporate training, and career
               exploration, so you can discover your{' '}"<a>Greatest Version</a>".
 
