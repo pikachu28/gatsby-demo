@@ -1,11 +1,11 @@
 {
   "name": "v4",
-  "description": "Personal Website V4",
+  "description": "Xero Tech Website",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Xero Tech <xeroincorporations@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/pikachu28/gatsby-demo"
   },
   "keywords": [
     "gatsby"
@@ -77,3 +77,4 @@
     "prettier": "^2.0.4"
   }
 }
+
