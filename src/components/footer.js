@@ -109,18 +109,18 @@ const Footer = () => {
         <a href="https://github.com/bchiang7/v4">
           <div>Source Copyright @ Brittany Chiang</div>
 
-          {githubInfo.stars && githubInfo.forks && (
-            <div className="github-stats">
-              <span>
-                <Icon name="Star" />
-                <span>{githubInfo.stars.toLocaleString()}</span>
-              </span>
-              <span>
-                <Icon name="Fork" />
-                <span>{githubInfo.forks.toLocaleString()}</span>
-              </span>
-            </div>
-          )}
+//           {githubInfo.stars && githubInfo.forks && (
+//             <div className="github-stats">
+//               <span>
+//                 <Icon name="Star" />
+//                 <span>{githubInfo.stars.toLocaleString()}</span>
+//               </span>
+//               <span>
+//                 <Icon name="Fork" />
+//                 <span>{githubInfo.forks.toLocaleString()}</span>
+//               </span>
+//             </div>
+//           )}
         </a>
         <br/><a href="http://skillzera.tech/"> ✩ Skillzera</a> <a href="https://www.linkedin.com/company/xerotechnologies/"> ‣ Careers</a>
       </StyledCredit>
