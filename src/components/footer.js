@@ -103,7 +103,7 @@ const Footer = () => {
         <a href="https://github.com/bchiang7/v4">
           <div>Source Copyright @ Brittany Chiang</div>
         </a>
-        <br/><a href="http://skillzera.tech/"> ✩ Skillzera</a> <a href="https://www.linkedin.com/company/xerotechnologies/"> ‣ Careers</a>
+        <br/><a href="http://skillzera.tech/"> ✩ Skillzera</a> <a href="https://forms.gle/4WuZsHz6Hyjnvqng8"> ‣ Internships</a>
       </StyledCredit>
     </StyledFooter>
   );
